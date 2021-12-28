@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1639468142 source:d:\rethingies\c++tests\sir\main.cpp
+	<iostream>
+	<windows.h>
+	<tlhelp32.h>
+	<psapi.h>
+
